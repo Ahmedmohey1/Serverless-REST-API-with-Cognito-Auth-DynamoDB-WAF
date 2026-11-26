@@ -1,6 +1,6 @@
 # Serverless REST API on AWS
 
-Version 14
+Serverless REST API with Cognito Auth, DynamoDB & WAF
 
 ## About the Project
 
