@@ -40,11 +40,4 @@ When a record changes, a second Lambda function saves an audit record and sends 
 - **X-Ray**: Shows the path of a request from API Gateway to Lambda to DynamoDB.
 - **CloudWatch**: Keeps the logs and metrics.
 
-## Files in This Repository
 
-- `.github/` - templates for issues and pull requests
-- `deployment/` - how to deploy the project
-- `source/` - the project code
-- `serverless-architecture-v14.drawio` - the editable diagram
-- `CHANGELOG.md` - what changed in each version
-- `LICENSE` - MIT License
