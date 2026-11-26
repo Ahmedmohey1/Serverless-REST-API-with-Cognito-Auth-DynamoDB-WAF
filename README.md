@@ -10,7 +10,7 @@ Users open a website, sign in, and create, read, update or delete their records.
 
 ## Architecture
 
-![Architecture Diagram](serverless-architecture.png)
+![Architecture Diagram](serverless-architecture.svg)
 
 ## How It Works
 
